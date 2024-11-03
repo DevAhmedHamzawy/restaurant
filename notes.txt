@@ -1,0 +1,3 @@
+1 - cron job "command line" for offers
+2 - history orders "by day"
+3 - get recommended meals
